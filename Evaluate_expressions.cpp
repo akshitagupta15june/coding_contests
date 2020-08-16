@@ -18,6 +18,4 @@ int main() {
         sum+=power;
     }
     cout<<sum<<endl;
-
-	// Write your code here
 }
