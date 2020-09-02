@@ -1,2 +1,2 @@
 # coding_contests
-It contains coding questions of contest.
+It contains coding questions of all contest.
